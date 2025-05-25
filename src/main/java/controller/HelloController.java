@@ -40,7 +40,7 @@ public class HelloController {
     }
 
     @FXML
-    public void graphicHashTableOnAction(ActionEvent actionEvent) {loadPage("graphicHash.fxml");
+    public void graphicHashTableOnAction(ActionEvent actionEvent) {loadPage("graficHash.fxml");
     }
 
     @FXML
